@@ -1,2 +1,3 @@
 # hello-word
-Just a repository
+
+    This is my first readme, so cool!
